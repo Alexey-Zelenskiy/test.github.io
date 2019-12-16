@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/css/main.22a8b602.chunk.css",
+    "main.js": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/main.5afe3a64.chunk.js",
+    "main.js.map": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/main.5afe3a64.chunk.js.map",
+    "runtime-main.js": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/runtime-main.eaf62dbf.js",
+    "runtime-main.js.map": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/runtime-main.eaf62dbf.js.map",
+    "static/js/2.2c1aba3d.chunk.js": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/2.2c1aba3d.chunk.js",
+    "static/js/2.2c1aba3d.chunk.js.map": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/2.2c1aba3d.chunk.js.map",
+    "index.html": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/index.html",
+    "precache-manifest.ccd780765571e31ec5b2dd4af709fcc7.js": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/precache-manifest.ccd780765571e31ec5b2dd4af709fcc7.js",
+    "service-worker.js": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/service-worker.js",
+    "static/css/main.22a8b602.chunk.css.map": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/css/main.22a8b602.chunk.css.map",
+    "static/js/2.2c1aba3d.chunk.js.LICENSE": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/2.2c1aba3d.chunk.js.LICENSE",
+    "static/media/error.jpeg": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/media/error.12e40dd1.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaf62dbf.js",
+    "static/js/2.2c1aba3d.chunk.js",
+    "static/css/main.22a8b602.chunk.css",
+    "static/js/main.5afe3a64.chunk.js"
+  ]
+}
