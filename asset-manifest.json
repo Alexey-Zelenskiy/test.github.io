@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/css/main.22a8b602.chunk.css",
-    "main.js": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/main.5afe3a64.chunk.js",
-    "main.js.map": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/main.5afe3a64.chunk.js.map",
-    "runtime-main.js": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/runtime-main.eaf62dbf.js",
-    "runtime-main.js.map": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/runtime-main.eaf62dbf.js.map",
-    "static/js/2.2c1aba3d.chunk.js": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/2.2c1aba3d.chunk.js",
-    "static/js/2.2c1aba3d.chunk.js.map": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/2.2c1aba3d.chunk.js.map",
-    "index.html": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/index.html",
-    "precache-manifest.ccd780765571e31ec5b2dd4af709fcc7.js": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/precache-manifest.ccd780765571e31ec5b2dd4af709fcc7.js",
-    "service-worker.js": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/service-worker.js",
-    "static/css/main.22a8b602.chunk.css.map": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/css/main.22a8b602.chunk.css.map",
-    "static/js/2.2c1aba3d.chunk.js.LICENSE": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/js/2.2c1aba3d.chunk.js.LICENSE",
-    "static/media/error.jpeg": "/Alexey-Zelenskiy/Alexey-Zelenskiy.github.io/static/media/error.12e40dd1.jpeg"
+    "main.css": "/test.github.io/static/css/main.22a8b602.chunk.css",
+    "main.js": "/test.github.io/static/js/main.5c31ad54.chunk.js",
+    "main.js.map": "/test.github.io/static/js/main.5c31ad54.chunk.js.map",
+    "runtime-main.js": "/test.github.io/static/js/runtime-main.c87176b2.js",
+    "runtime-main.js.map": "/test.github.io/static/js/runtime-main.c87176b2.js.map",
+    "static/js/2.2c1aba3d.chunk.js": "/test.github.io/static/js/2.2c1aba3d.chunk.js",
+    "static/js/2.2c1aba3d.chunk.js.map": "/test.github.io/static/js/2.2c1aba3d.chunk.js.map",
+    "index.html": "/test.github.io/index.html",
+    "precache-manifest.553aac114c0fc90b9af39f69cd71e0e0.js": "/test.github.io/precache-manifest.553aac114c0fc90b9af39f69cd71e0e0.js",
+    "service-worker.js": "/test.github.io/service-worker.js",
+    "static/css/main.22a8b602.chunk.css.map": "/test.github.io/static/css/main.22a8b602.chunk.css.map",
+    "static/js/2.2c1aba3d.chunk.js.LICENSE": "/test.github.io/static/js/2.2c1aba3d.chunk.js.LICENSE",
+    "static/media/error.jpeg": "/test.github.io/static/media/error.12e40dd1.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eaf62dbf.js",
+    "static/js/runtime-main.c87176b2.js",
     "static/js/2.2c1aba3d.chunk.js",
     "static/css/main.22a8b602.chunk.css",
-    "static/js/main.5afe3a64.chunk.js"
+    "static/js/main.5c31ad54.chunk.js"
   ]
 }
